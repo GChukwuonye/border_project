@@ -1,0 +1,33 @@
+Variable,P_Value,Test_Used
+Sample Identification Number (Kit #): - Microbial Sample - Text,0.710144928,Fisher's exact
+Water source,9.41E-05,Fisher's exact
+Water Color - Selected Choice,1,Fisher's exact
+smell of water,0.038208169,Fisher's exact
+Observed water turbidity,1,Fisher's exact
+Water Hardness (gpg),1,Fisher's exact
+"On a scale of 1 to 10 (with 1 being the lowest and 10 being the highest), how would you rate the quality of the water? - Water quality",0.434594391,Fisher's exact
+Why do you rate your water quality this way?,1,Fisher's exact
+Do you treat your drinking and cooking water before using it in your home?,0.166666667,Fisher's exact
+Which of these factors is the reason you have never had your water tested? -Selected Choice,0.735177866,Fisher's exact
+Does the amount of water in your well vary from year to year (static water level)?,0.00310559,Fisher's exact
+Are you interested in learning more about water pollution in your area?,0.337944664,Fisher's exact
+What information would you be interested in learning about water pollution in your area?,1,Fisher's exact
+What information sources do you trust most to provide accurate information about water pollution in your area? Select all that apply - Selected Choice,0.604201681,Fisher's exact
+Who should be responsible for residential water safety? -Selected Choice,0.003011481,Fisher's exact
+What is your comfort level with drinking tap water?,9.41E-05,Fisher's exact
+Is there a better water source available within your facility?,1,Fisher's exact
+Is the water source piped to the house (is there a domestic connection)?,0.001976285,Fisher's exact
+What water source(s) do you use for cooking water in your home?Select all that apply - Selected Choice,1,Fisher's exact
+Where do you get your water for domestic use (cleaning and washing)?Select all that apply - Selected Choice,0.025032938,Fisher's exact
+"In the past month, has there been a time when your household did not have sufficient amounts of safe drinking water when it was needed?",1,Fisher's exact
+"Do you live very close to a metal processing plant, mine, or any other industry? -Selected Choice",1,Fisher's exact
+"Do you live very close to a metal processing plant, mine, or any other industry? - Yes, please explain - Text",1,Fisher's exact
+Do you take any steps to prevent dirt from entering your home? -Selected Choice,0.578392622,Fisher's exact
+"Do you take any steps to prevent dirt from entering your home? - Yes, please explain - Text",1,Fisher's exact
+"In the past five years, have you completed any major outdoor home projects that would have generated dust and/or waste from construction materials (such as: remodeling, adding a new roof, building on a new room or shed) - selected choice",0.544042914,Fisher's exact
+"In the past five years, have you completed any major outdoor home projects that would have generated dust and/or waste from construction materials (such as: remodeling, adding a new roof, building on a new room or shed) - If yes, what and where? -Text",1,Fisher's exact
+Do any of the following activities happen near your home? Please check all that apply,0.230769231,Fisher's exact
+What type(s) of air conditioning unit(s) do you have in your home? -Selected Choice,1,Fisher's exact
+Classification,0.881422925,Fisher's exact
+Total Monthly  Income,0.432523998,Fisher's exact
+Adjusted Individual income,0.669678148,Fisher's exact
