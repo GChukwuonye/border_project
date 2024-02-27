@@ -1,0 +1,7 @@
+Variable,P_Value,Test_Used
+"Do you currently talk to others about water, soil, or other environmental issues?",0.9999999999999831,Fisher's exact
+"Do you currently belong to any community organizations, groups and/or advisory boards? -Selected Choice",0.9999999999999831,Fisher's exact
+Do you have any community and/or environmental health concerns that you would like to share with us at this time? -Selected Choice,0.6491986981419734,Fisher's exact
+"As part of this study, we will provide you with a summary of the information we collected. Are you interested in having this information?",0.2998984378778386,Fisher's exact
+Are you interested in learning more about water pollution in your area?,0.8244041223384113,Fisher's exact
+Who should be responsible for residential water safety? -Selected Choice,0.5585119420997496,Fisher's exact

@@ -1,33 +1,33 @@
 Variable,P_Value,Test_Used
-Sample Identification Number (Kit #): - Microbial Sample - Text,0.002784119702094132,Fisher's exact
-What is your Water Source?,0.730268199233724,Fisher's exact
-Water source,0.730268199233724,Fisher's exact
-Water Color - Selected Choice,0.9328335832084125,Fisher's exact
-smell of water,0.8353807223372601,Fisher's exact
-Observed water turbidity,0.45118454704535943,Fisher's exact
+Sample Identification Number (Kit #): - Microbial Sample - Text,0.00278412,Fisher's exact
+What is your Water Source?,0.730268199,Fisher's exact
+Water source,0.730268199,Fisher's exact
+Water Color - Selected Choice,0.932833583,Fisher's exact
+smell of water,0.835380722,Fisher's exact
+Observed water turbidity,0.451184547,Fisher's exact
 Water Hardness (gpg),1,Fisher's exact
-"On a scale of 1 to 10 (with 1 being the lowest and 10 being the highest), how would you rate the quality of the water? - Water quality",0.1656613980100223,Fisher's exact
-Why do you rate your water quality this way?,6.061163955281879e-5,Fisher's exact
-Do you treat your drinking and cooking water before using it in your home?,0.5172413793103446,Fisher's exact
-Which of these factors is the reason you have never had your water tested? -Selected Choice,0.057078487593601526,Fisher's exact
-Does the amount of water in your well vary from year to year (static water level)?,0.4223483339169785,Fisher's exact
-Are you interested in learning more about water pollution in your area?,0.8268005411440541,Fisher's exact
-What information would you be interested in learning about water pollution in your area?,0.9999999999999993,Fisher's exact
-What information sources do you trust most to provide accurate information about water pollution in your area? Select all that apply - Selected Choice,0.5297611744980112,Fisher's exact
-Who should be responsible for residential water safety? -Selected Choice,0.6030015232580388,Fisher's exact
-What is your comfort level with drinking tap water?,0.40878651583299574,Fisher's exact
-Is there a better water source available within your facility?,0.29310344827586676,Fisher's exact
-Is the water source piped to the house (is there a domestic connection)?,0.37164750957854653,Fisher's exact
-What water source(s) do you use for cooking water in your home?Select all that apply - Selected Choice,0.7394636015325701,Fisher's exact
-Where do you get your water for domestic use (cleaning and washing)?Select all that apply - Selected Choice,0.818180266591851,Fisher's exact
-"In the past month, has there been a time when your household did not have sufficient amounts of safe drinking water when it was needed?",0.5656592756253508,Fisher's exact
-"Do you live very close to a metal processing plant, mine, or any other industry? -Selected Choice",0.730268199233724,Fisher's exact
+"On a scale of 1 to 10 (with 1 being the lowest and 10 being the highest), how would you rate the quality of the water? - Water quality",0.165661398,Fisher's exact
+Why do you rate your water quality this way?,6.06E-05,Fisher's exact
+Do you treat your drinking and cooking water before using it in your home?,0.517241379,Fisher's exact
+Which of these factors is the reason you have never had your water tested? -Selected Choice,0.057078488,Fisher's exact
+Does the amount of water in your well vary from year to year (static water level)?,0.422348334,Fisher's exact
+Are you interested in learning more about water pollution in your area?,0.826800541,Fisher's exact
+What information would you be interested in learning about water pollution in your area?,1,Fisher's exact
+What information sources do you trust most to provide accurate information about water pollution in your area? Select all that apply - Selected Choice,0.529761174,Fisher's exact
+Who should be responsible for residential water safety? -Selected Choice,0.603001523,Fisher's exact
+What is your comfort level with drinking tap water?,0.408786516,Fisher's exact
+Is there a better water source available within your facility?,0.293103448,Fisher's exact
+Is the water source piped to the house (is there a domestic connection)?,0.37164751,Fisher's exact
+What water source(s) do you use for cooking water in your home?Select all that apply - Selected Choice,0.739463602,Fisher's exact
+Where do you get your water for domestic use (cleaning and washing)?Select all that apply - Selected Choice,0.818180267,Fisher's exact
+"In the past month, has there been a time when your household did not have sufficient amounts of safe drinking water when it was needed?",0.565659276,Fisher's exact
+"Do you live very close to a metal processing plant, mine, or any other industry? -Selected Choice",0.730268199,Fisher's exact
 "Do you live very close to a metal processing plant, mine, or any other industry? - Yes, please explain - Text",1,Fisher's exact
-Do you take any steps to prevent dirt from entering your home? -Selected Choice,0.4246876561719217,Fisher's exact
-"Do you take any steps to prevent dirt from entering your home? - Yes, please explain - Text",0.999999999999999,Fisher's exact
-"In the past five years, have you completed any major outdoor home projects that would have generated dust and/or waste from construction materials (such as: remodeling, adding a new roof, building on a new room or shed) - selected choice",0.01999915793019257,Fisher's exact
+Do you take any steps to prevent dirt from entering your home? -Selected Choice,0.424687656,Fisher's exact
+"Do you take any steps to prevent dirt from entering your home? - Yes, please explain - Text",1,Fisher's exact
+"In the past five years, have you completed any major outdoor home projects that would have generated dust and/or waste from construction materials (such as: remodeling, adding a new roof, building on a new room or shed) - selected choice",0.019999158,Fisher's exact
 "In the past five years, have you completed any major outdoor home projects that would have generated dust and/or waste from construction materials (such as: remodeling, adding a new roof, building on a new room or shed) - If yes, what and where? -Text",1,Fisher's exact
-Do any of the following activities happen near your home? Please check all that apply,0.11319253501915978,Fisher's exact
-What type(s) of air conditioning unit(s) do you have in your home? -Selected Choice,0.19664721751678463,Fisher's exact
-Total Monthly  Income,1.4918619084028544e-8,Fisher's exact
-Adjusted Individual income,4.7168645532002294e-9,Fisher's exact
+Do any of the following activities happen near your home? Please check all that apply,0.113192535,Fisher's exact
+What type(s) of air conditioning unit(s) do you have in your home? -Selected Choice,0.196647218,Fisher's exact
+Total Monthly  Income,1.49E-08,Fisher's exact
+Adjusted Individual income,4.72E-09,Fisher's exact

@@ -1,0 +1,13 @@
+Variable,P_Value,Test_Used
+Water Color,1,Fisher's exact
+smell of water,0.02393162393162436,Fisher's exact
+Observed water turbidity,0.6231884057971014,Fisher's exact
+"On a scale of 1 to 10 (with 1 being the lowest and 10 being the highest), how would you rate the quality of the water? - Water quality",0.377449370552822,Fisher's exact
+Do you treat your drinking and cooking water before using it in your home?,0.1724137931034483,Fisher's exact
+Does the amount of water in your well vary from year to year (static water level)?,0.013094185507978725,Fisher's exact
+What is your comfort level with drinking tap water?,0.005776598880047238,Fisher's exact
+Is there a better water source available within your facility?,1,Fisher's exact
+Is the water source piped to the house (is there a domestic connection)?,0.002736726874657907,Fisher's exact
+What water source(s) do you use for cooking water in your home?,0.2330428192497167,Fisher's exact
+Where do you get your water for domestic use (cleaning and washing)?,0.0023493747631679,Fisher's exact
+"In the past month, has there been a time when your household did not have sufficient amounts of safe drinking water when it was needed?",0.9999999999999999,Fisher's exact
