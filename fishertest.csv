@@ -1,17 +1,16 @@
 Variable,P_Value,Test_Used
-Water Color,0.6743691091517179,Fisher's exact
-smell of water,0.007945677510894875,Fisher's exact
-Observed water turbidity,0.6653318077803203,Fisher's exact
-"On a scale of 1 to 10 (with 1 being the lowest and 10 being the highest), how would you rate the quality of the water? - Water quality",0.49154589371981294,Fisher's exact
-Do you treat your drinking and cooking water before using it in your home?,0.25,Fisher's exact
-Does the amount of water in your well vary from year to year (static water level)?,0.08115942028985569,Fisher's exact
-What is your comfort level with drinking tap water?,5.270092226614034e-4,Fisher's exact
+Water Color,1,Fisher's exact
+smell of water,0.03286873309756569,Fisher's exact
+Observed water turbidity,1,Fisher's exact
+"On a scale of 1 to 10 (with 1 being the lowest and 10 being the highest), how would you rate the quality of the water? - Water quality",0.5171624713958783,Fisher's exact
+Do you treat your drinking and cooking water before using it in your home?,0.21739130434782608,Fisher's exact
+Does the amount of water in your well vary from year to year (static water level)?,0.04401319504294288,Fisher's exact
+What is your comfort level with drinking tap water?,0.007756545513982494,Fisher's exact
 Is there a better water source available within your facility?,1,Fisher's exact
-Is the water source piped to the house (is there a domestic connection)?,0.010683760683760675,Fisher's exact
-What water source(s) do you use for cooking water in your home?,0.3666666666666728,Fisher's exact
-Where do you get your water for domestic use (cleaning and washing)?,5.270092226614016e-4,Fisher's exact
-"In the past month, has there been a time when your household did not have sufficient amounts of safe drinking water when it was needed?",0.6743691091517179,Fisher's exact
-Are you interested in learning more about water pollution in your area?,0.48272017837235914,Fisher's exact
-What information would you be interested in learning about water pollution in your area?,0.9999999999999999,Fisher's exact
-What information sources do you trust most to provide accurate information about water pollution in your area? Select all that apply - Selected Choice,0.4091847265221844,Fisher's exact
-Who should be responsible for residential water safety? -Selected Choice,0.009660991182730403,Fisher's exact
+Is the water source piped to the house (is there a domestic connection)?,0.005646527385657817,Fisher's exact
+What water source(s) do you use for cooking water in your home?,1,Fisher's exact
+Where do you get your water for domestic use (cleaning and washing)?,0.007875419774733184,Fisher's exact
+"In the past month, has there been a time when your household did not have sufficient amounts of safe drinking water when it was needed?",0.6213854795090492,Fisher's exact
+Are you interested in learning more about water pollution in your area?,0.3141252340336972,Fisher's exact
+What information sources do you trust most to provide accurate information about water pollution in your area? Select all that apply - Selected Choice,0.6291208791208797,Fisher's exact
+Who should be responsible for residential water safety? -Selected Choice,0.03405747570507253,Fisher's exact
